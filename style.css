@@ -19,7 +19,7 @@ p {
     padding: 20px;
 }
 
-#container {
+div#container {
     overflow-x: auto;
 }
 
@@ -35,14 +35,10 @@ table {
     width: 1000px;
     margin: auto;
 
-}
-
-thead {
-    position: sticky;
-    top: -1px;
-    background-color: #808080;
 
 }
+
+
 
 td {
     border: 1px solid #000000;
