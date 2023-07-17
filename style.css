@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-
+*{margin: 0px;}
 
 
 body {
@@ -71,7 +71,6 @@ a:hover {
 footer {
 
     width: 100vw, 
-    height: 100vh;
     margin: 0px;
     background-color: #808080;
     color: #ffffff;
